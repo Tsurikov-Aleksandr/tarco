@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: https://tarco.ru
+Sitemap: https://tarco.ru/sitemap.xml
